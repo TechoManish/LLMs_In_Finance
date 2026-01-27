@@ -1,6 +1,10 @@
 # LLMs_In_Finance
 LLMs + Embeddings in Finance: From Search to Intelligence
 
+Financial insights are often buried in unstructured text like customer interactions, research notes, news, macro commentary, emails, chat logs etc making it slow and manual to extract meaning using traditional search.
+By leveraging AI techniques such as Embeddings we can turn financial text into searchable semantic vectors.
+We can then use the vector database to retrieves relevant context, and then leverage LLM to uses that context to generate intelligence by accelerating analysis while still keeping results auditable and reliable.
+
 With this project we intend to do the below 
 A:ingestion of data - we would use a locally available dataset of 10k records
 B:chunking
